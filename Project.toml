@@ -1,0 +1,5 @@
+[deps]
+HarmonicBalance = "e13b9ff6-59c3-11ec-14b1-f3d2cc6c135e"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+Latexify = "23fbe1c1-3f47-55db-b15f-69d7ec21a316"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
