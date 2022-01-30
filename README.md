@@ -4,4 +4,4 @@ This repo contains a collection of example Jupyter notebooks using ![HarmonicBal
 
 A detailed description of each example can be found at https://nonlinearoscillations.github.io/HarmonicBalance/.
 
-If you would like to contribute your favourite system, feel free to get in touch, or simply open a merge request to this repo and the documentation.
+If you would like to contribute your favourite system, feel free to get in touch, or simply open a pull request to this repo and the documentation.
