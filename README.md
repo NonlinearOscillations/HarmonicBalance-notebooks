@@ -1,6 +1,6 @@
 # HarmonicBalance notebooks
 
-This repo contains a collection of example Jupyter notebooks using ![HarmonicBalance.jl](https://github.com/NonlinearOscillations/HarmonicBalance.jl)
+This repo contains a collection of example Jupyter notebooks using [HarmonicBalance.jl](https://github.com/NonlinearOscillations/HarmonicBalance.jl)
 
 A detailed description of each example can be found at https://nonlinearoscillations.github.io/HarmonicBalance/.
 
